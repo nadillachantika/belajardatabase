@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523190883882",
+    "firebase_url": "https://praktikweek9.firebaseio.com",
+    "project_id": "praktikweek9",
+    "storage_bucket": "praktikweek9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523190883882:android:5248677ce8e13842d2d553",
+        "android_client_info": {
+          "package_name": "com.nadillla.belajarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523190883882-ukoecvl6epqigbheovougldlej65j4ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemjYHKOWn4Fw661rmnLfSdY7ArtTIXLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523190883882-ukoecvl6epqigbheovougldlej65j4ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523190883882:android:8d2622bb0ec61e3ed2d553",
+        "android_client_info": {
+          "package_name": "com.nadillla.praktikweek9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523190883882-ukoecvl6epqigbheovougldlej65j4ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemjYHKOWn4Fw661rmnLfSdY7ArtTIXLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523190883882-ukoecvl6epqigbheovougldlej65j4ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
